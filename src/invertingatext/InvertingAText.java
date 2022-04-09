@@ -15,5 +15,6 @@ public class InvertingAText {
         //inverting text 
         invertText = invertText.reverse();
         System.out.println(invertText);
+        //commit
     }
 }
